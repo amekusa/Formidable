@@ -5,7 +5,7 @@ namespace Gregwar\Formidable\Language;
 class Japanese extends Language
 {
     protected $messages = array(
-    'read_only' => '項目: %s は読み取り専用です。変更しないでください',
+        'read_only' => '項目: %s は読み取り専用です。変更しないでください',
         'value_required' => '項目: %s を入力してください',
         'bad_format' => '項目: %s の入力形式が正しくありません',
         'at_least' => '項目: %s は %d 文字以上の入力が必要です',
